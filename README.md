@@ -4,7 +4,7 @@
 
 # 👩🏼‍💻 Alicy Firmino
 
-### 'Technology | Data | Development | Automation'
+### Technology | Data | Development | Automation
 
 <p>
 
