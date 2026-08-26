@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:A78BFA&height=180&section=header&text=ALICY%20FIRMINO&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=twinkling" width="100'0"/>
 
-# 👩🏼‍💻 Alicy Firmino
+# 👩🏼‍💻 Alicy Cordeiro
 
 ### Technology | Data | Development | Automation
 
@@ -18,7 +18,7 @@
 
 ## Hi Guys 👋
 
-I'm **Alicy Firmino**, passionate about technology in the fields of **development**, **data, and automation**.
+I'm **Alicy Cordeiro**, passionate about technology in the fields of **development**, **data, and automation**.
 <!--
 **alicycordeiro/alicycordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
