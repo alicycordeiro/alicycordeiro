@@ -1,6 +1,6 @@
 <div aling="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:A78BFA&height=180&section=header&text=ALICY%20FIRMINO&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=twinkling" width="100'0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:A78BFA&height=180&section=header&text=ALICY%CORDEIRO&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=twinkling" width="100'0"/>
 
 # 👩🏼‍💻 Alicy Cordeiro
 
