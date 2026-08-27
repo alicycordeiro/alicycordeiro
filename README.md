@@ -1,14 +1,13 @@
-<div aling="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:A78BFA&height=180&section=header&text=ALICY%CORDEIRO&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=twinkling" width="100'0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:4169E1&height=300&section=header&text=ALICY%20CORDEIRO&fontSize=72&fontColor=FFFFFF&fontAlignY=48&animation=twinkling&desc=DEVELOPMENT%20%E2%80%A2%20DATA%20%E2%80%A2%20AUTOMATION&descSize=18&descAlignY=67&descColor=E0EAFF" width="100%"/>
 
-# 👩🏼‍💻 Alicy Cordeiro
+<br>
 
-### Technology | Data | Development | Automation
 
 <p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Tools+of+solutions+of+the+future;Shaping+tomorrow+through+innovation+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Tools+of+solutions+of+the+future;Shaping+tomorrow+through+innovation" alt="Typing SVG" />
 
 </p>
 
@@ -19,6 +18,16 @@
 ## Hi Guys 👋
 
 I'm **Alicy Cordeiro**, passionate about technology in the fields of **development**, **data, and automation**.
+
+---
+
+## About me 👩🏼‍💻
+
+- Develop solutions that make everyday tasks easier, automate manual processes, and improve efficiency.
+
+- Financial message analysis using API integrations and ISO 8583 standards.
+  
+
 <!--
 **alicycordeiro/alicycordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
