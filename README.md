@@ -26,6 +26,19 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 - Develop solutions that make everyday tasks easier, automate manual processes, and improve efficiency.
 
 - Financial message analysis using API integrations and ISO 8583 standards.
+
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 💻 Development
+
+ <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+
+<br><br>
   
 
 <!--
