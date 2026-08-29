@@ -43,13 +43,19 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 ### 📊 Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" height="42"/>
-
-  <img
+ 
+<img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
     alt="Microsoft SQL Server"
     height="42"
     style="margin-right: 8px;"
   />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,excel" height="42"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="42"/>
+</p>
+
 
 ⚡ Automation
 
