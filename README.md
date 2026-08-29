@@ -58,6 +58,19 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
   <p>
     <img src="https://skillicons.dev/icons?i=aws,gcp" heigth="42"/>
   </p>
+
+
+ ### 🔗 Microsoft
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" height="42"/>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="42"/>
+
+  <img src="https://img.shields.io/badge/Excel-185C37?style=for-the-badge&logo=Excel&logoColor=white" height="42"/>
+    
+</p>
+ 
   
 
 
