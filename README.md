@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:4169E1&height=300&section=header&text=Welcome%20to%20Alicy's%20Github&fontSize=64&fontColor=FFFFFF&fontAlignY=48&animation=twinkling&desc=DEVELOPMENT%20%E2%80%A2%20DATA%20%E2%80%A2%20AUTOMATION&descSize=18&descAlignY=67&descColor=E0EAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:4169E1&height=300&section=header&text=Welcome%20to%20Alicy's%20Github&fontSize=64&fontColor=FFFFFF&fontAlignY=48&animation=twinkling&desc=DEVELOPMENT%20%E2%80%A2%20DATA%20%E2%80%A2%20AUTOMATION&descSize=16&descAlignY=67&descColor=E0EAFF" width="100%"/>
 
 <br>
 
@@ -32,7 +32,7 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 
 ### 🛠️ Technologies & Tools
 
-## 💻 Development
+### 💻 Development
 
 <p>
 
@@ -50,6 +50,12 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
     height="42"
     style="margin-right;"
   />
+
+  ### ☁️ Cloud
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp" heigth="42"/>
+  </p>
 
 
 
