@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:4169E1&height=300&section=header&text=ALICY%20CORDEIRO&fontSize=72&fontColor=FFFFFF&fontAlignY=48&animation=twinkling&desc=DEVELOPMENT%20%E2%80%A2%20DATA%20%E2%80%A2%20AUTOMATION&descSize=18&descAlignY=67&descColor=E0EAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:4169E1&height=300&section=header&text=Welcome%20to%20Alicy's%20Github&fontSize=64&fontColor=FFFFFF&fontAlignY=48&animation=twinkling&desc=DEVELOPMENT%20%E2%80%A2%20DATA%20%E2%80%A2%20AUTOMATION&descSize=18&descAlignY=67&descColor=E0EAFF" width="100%"/>
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Hi Guys 👋
+## Hi World 👋
 
 I'm **Alicy Cordeiro**, passionate about technology in the fields of **development**, **data, and automation**.
 
@@ -30,16 +30,36 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-<div align="center">
+## 💻 Development
 
-### 💻 Development
+<p>
 
- <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="42"/>
 
-<br><br>
-  
+</p>
+
+### 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="42"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="42"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="42"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="42"/>
+</p>
+
+⚡ Automation
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftpowerautomate.svg" height="42"/>
+</p>
+
+
+
+
+
 
 <!--
 **alicycordeiro/alicycordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
