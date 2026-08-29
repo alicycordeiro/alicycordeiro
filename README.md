@@ -27,6 +27,8 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 
 - Financial message analysis using API integrations and ISO 8583 standards.
 
+- Building a safe, efficient and promising future in the cloud.
+
 
 ---
 
@@ -36,7 +38,7 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=python,html,js,git,github,vscode" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" height="42"/>
 
 </p>
 
@@ -56,6 +58,7 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
   <p>
     <img src="https://skillicons.dev/icons?i=aws,gcp" heigth="42"/>
   </p>
+  
 
 
 
