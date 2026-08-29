@@ -44,7 +44,14 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres" height="42"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerautomate/powerautomate-original.svg"/>
+<p>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerautomate/powerautomate-original.svg"
+    alt="Microsoft Power Automate"
+    height="42"
+  />
+</p>
+
 
 
 ⚡ Automation
