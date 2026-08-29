@@ -36,7 +36,7 @@ I'm **Alicy Cordeiro**, passionate about technology in the fields of **developme
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python,html,js,git,github,vscode" height="42"/>
 
 </p>
 
